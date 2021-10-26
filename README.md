@@ -1,2 +1,3 @@
-# histology_tools
+# Histology Tools
+
 Some useless and inelegant code fragments
